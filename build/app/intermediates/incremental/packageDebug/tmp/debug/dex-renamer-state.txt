@@ -1,0 +1,4 @@
+#Mon Nov 07 01:04:15 TRT 2022
+base.0=/Users/melikebalpinar/AndroidStudioProjects/Employee_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
